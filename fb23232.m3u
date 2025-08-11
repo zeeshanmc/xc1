@@ -1,21 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Gem 24B" ,Gem 24B
 http://23232.top:80/play/live.php?mac=A0:bb:3e:7b:47:f5&stream=505079&extension=ts&play_token=bj4kkhJf9T
-#EXTINF:-1 ,Saudi CH Sunnah
+#EXTINF:-1 tvg-name="Saudi CH Sunnah" ,Saudi CH Sunnah
 http://23232.top:80/play/live.php?mac=A0:bb:3e:7b:47:f5&stream=805499&extension=ts&play_token=EaQQFzJFqu
-#EXTINF:-1 ,Saudi Quran HD
+#EXTINF:-1 tvg-name="Saudi Quran HD" ,Saudi Quran HD
 http://23232.top:80/play/live.php?mac=A0:bb:3e:7b:47:f5&stream=805498&extension=ts&play_token=zuCFGLTyki
-#EXTINF:-1 ,Star Sports 2
+#EXTINF:-1 tvg-name="Star Sports 2" ,Star Sports 2
 http://23232.top:80/play/live.php?mac=A0:bb:3e:7b:47:f5&stream=1104674&extension=ts&play_token=48rCgcVzWv
-#EXTINF:-1 ,Star Sports 1 Hindi
+#EXTINF:-1 tvg-name="Star Sports 1 Hindi" ,Star Sports 1 Hindi
 http://23232.top:80/play/live.php?mac=A0:bb:3e:7b:47:f5&stream=1104672&extension=ts&play_token=ko492PglVW
-#EXTINF:-1 ,Geo Super
+#EXTINF:-1 tvg-name="Geo Super" ,Geo Super
 http://23232.top:80/play/live.php?mac=A0:bb:3e:7b:47:f5&stream=165629&extension=ts&play_token=8F0Pbc2soZ
-#EXTINF:-1 ,A Sports
+#EXTINF:-1 tvg-name="A Sports" ,A Sports
 http://23232.top:80/play/live.php?mac=A0:bb:3e:7b:47:f5&stream=104791&extension=ts&play_token=7iK1pAxAyw
-#EXTINF:-1 ,Discover Pakistan
+#EXTINF:-1 tvg-name="Discover Pakistan" ,Discover Pakistan
 http://23232.top:80/play/live.php?mac=A0:bb:3e:7b:47:f5&stream=1116496&extension=ts&play_token=puspCClTeZ
-#EXTINF:-1 ,8xm
+#EXTINF:-1 tvg-name="8xm" ,8xm
 http://23232.top:80/play/live.php?mac=A0:bb:3e:7b:47:f5&stream=281093&extension=ts&play_token=xFuLo4xjGQ
-#EXTINF:-1 ,Ptv Sports
+#EXTINF:-1 tvg-name="Ptv Sports" ,Ptv Sports
 http://23232.top:80/play/live.php?mac=A0:bb:3e:7b:47:f5&stream=1116509&extension=ts&play_token=BUvqDi4nkX
