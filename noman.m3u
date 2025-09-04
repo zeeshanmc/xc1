@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="A Sports" tvg-id="A Sports" ,A Sports
+#EXTINF:-1 tvg-name="A Sports" group-title="PK",A Sports
 http://skunkytv.live:80/play/live.php?mac=00:1a:79:a5:ee:05&stream=689574&extension=ts&play_token=WN0voizPoa
-#EXTINF:-1 tvg-name="PTV Sports" tvg-id="PTV Sports" ,PTV Sports
+#EXTINF:-1 tvg-name="PTV Sports" group-title="PK",PTV Sports
 http://skunkytv.live:80/play/live.php?mac=00:1a:79:a5:ee:05&stream=689571&extension=ts&play_token=fFU8H2JuzH
 #EXTINF:-1 tvg-name="Willow Cricket" ,Willow Cricket
 http://skunkytv.live:80/play/live.php?mac=00:1a:79:a5:ee:05&stream=689572&extension=ts&play_token=BlR4cIqZyQ
