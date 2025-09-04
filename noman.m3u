@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 , A Sports
-http://skunkytv.live:80/play/live.php?mac=00:1a:79:a5:ee:05&stream=689574&extension=ts&play_token=WN0voizPoa
-#EXTINF:-1 , PTV Sports
-http://skunkytv.live:80/play/live.php?mac=00:1a:79:a5:ee:05&stream=689571&extension=ts&play_token=fFU8H2JuzH
-#EXTINF:-1 , Willow Cricket
-http://skunkytv.live:80/play/live.php?mac=00:1a:79:a5:ee:05&stream=689572&extension=ts&play_token=BlR4cIqZyQ
-#EXTINF:-1 , SkySports UK
-http://skunkytv.live:80/play/live.php?mac=00:1a:79:a5:ee:05&stream=689573&extension=ts&play_token=2SspliWap2
