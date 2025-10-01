@@ -1,1 +1,2 @@
 https://cdn21lhr.tamashaweb.com:8087/jazzauth/ARYdigital-abr/live/vsat-ary-H/chunks.m3u8?nimblesessionid=48881183&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDI1IDY6MzY6MjIgUE0maGFzaF92YWx1ZT14VHBpS1FDU0ZTK3lwYk1oUlNqZ1ZnPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/ARYdigital-abr/playlist.m3u8
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/ARYzindagi-abr/live/vsat-aryzindagi-H/chunks.m3u8?nimblesessionid=49901061&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDI1IDY6Mzg6MDMgUE0maGFzaF92YWx1ZT1yY3VWZWEzUEN5L290K2F4Q0hQVzdBPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/ARYzindagi-abr/playlist.m3u8
