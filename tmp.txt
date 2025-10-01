@@ -2,3 +2,4 @@ https://tapmadlive.akamaized.net/tapmadold/aplus.smil/chunklist_w972949371_b7480
 https://tapmadlive.akamaized.net/tapmadold/makkah.smil/chunklist_w105509623_b1248000_slEng.m3u8
 https://tapmadlive.akamaized.net/tapmadold/madina.smil/chunklist_w1570499648_b1248000_slENG.m3u8
 https://cdn5.mjunoon.tv:8087/web/cartoon-network-87/live/87H/chunks.m3u8?nimblesessionid=566969357&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDI1IDk6MTk6MjkgQU0maGFzaF92YWx1ZT1wV1k1YkI0b25FSVEvMWhmYkV1eFlBPT0mdmFsaWRtaW51dGVzPTE=
+https://arydigital.aryzap.com/2817f819b735afa2a3f49b7550d8f35f/68de4409/v1/0183ea2408f90b8ed5941a38bc72/0183ea24302d0b8ed5941a38bc75/ARYDigitalHDh264_1080p.m3u8?uuid=ec8a2841-ba94-41f0-8480-924476d99ce6&isSubM3u8=1
