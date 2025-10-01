@@ -1,0 +1,3 @@
+https://tapmadlive.akamaized.net/tapmadold/aplus.smil/chunklist_w972949371_b748000_slEng.m3u8
+https://tapmadlive.akamaized.net/tapmadold/makkah.smil/chunklist_w105509623_b1248000_slEng.m3u8
+https://tapmadlive.akamaized.net/tapmadold/madina.smil/chunklist_w1570499648_b1248000_slENG.m3u8
